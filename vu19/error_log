@@ -1,0 +1,14 @@
+[08-Oct-2019 05:00:58 America/New_York] PHP Notice:  Undefined index: member_id in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 619
+[08-Oct-2019 05:00:58 America/New_York] PHP Notice:  Undefined index: ch in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 620
+[08-Oct-2019 05:00:58 America/New_York] PHP Notice:  Undefined index: amount in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 622
+[08-Oct-2019 05:04:15 America/New_York] PHP Notice:  Undefined index: member_id in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 619
+[08-Oct-2019 05:04:15 America/New_York] PHP Notice:  Undefined index: ch in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 620
+[08-Oct-2019 05:04:15 America/New_York] PHP Notice:  Undefined index: amount in /home/linuyrnr/public_html/associationmis/class/accountant.php on line 622
+[09-Oct-2019 19:14:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[09-Oct-2019 19:21:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[21-Oct-2019 04:05:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[21-Oct-2019 06:39:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[21-Oct-2019 06:42:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[21-Oct-2019 06:43:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[22-Oct-2019 07:34:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
+[22-Oct-2019 14:56:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/linuyrnr/public_html/associationmis/vu19/pages/logout.php on line 2
